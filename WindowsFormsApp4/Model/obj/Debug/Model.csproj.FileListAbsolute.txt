@@ -1,0 +1,5 @@
+C:\Users\elian\source\repos\WindowsFormsApp4\Model\bin\Debug\Model.dll
+C:\Users\elian\source\repos\WindowsFormsApp4\Model\bin\Debug\Model.pdb
+C:\Users\elian\source\repos\WindowsFormsApp4\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\elian\source\repos\WindowsFormsApp4\Model\obj\Debug\Model.dll
+C:\Users\elian\source\repos\WindowsFormsApp4\Model\obj\Debug\Model.pdb
